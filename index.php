@@ -1,4 +1,4 @@
 <?php
 #  phpinfo();
-echo "Welcome to OpenShift 3.9 Cluster Training baby   ";
+echo "Welcome to OpenShift Cluster Training Guys  ";
 ?>
