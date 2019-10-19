@@ -1,4 +1,4 @@
 <?php
 #  phpinfo();
-echo "Welcome to OpenShift 3.9 Cluster Session 2    ";
+echo "Welcome to OpenShift ";
 ?>
