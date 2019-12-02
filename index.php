@@ -1,4 +1,4 @@
 <?php
 #  phpinfo();
-echo "Welcome to OpenShift ";
+echo "Welcome to OpenShift  Master Class ";
 ?>
